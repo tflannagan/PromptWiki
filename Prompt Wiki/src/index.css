@@ -95,7 +95,7 @@ button:focus-visible {
 }
 
 blockquote {
- margin: 3rem 3rem;
+ margin: 2rem 1rem;
   border-radius: 15px;
   align-items: center;
   justify-content: center;
@@ -110,7 +110,7 @@ blockquote {
 .module {
   display: grid;
   grid-template-columns: 92% 8%;
-  margin: 0rem 5rem 0rem 3rem;
+  margin: 0rem 4rem 0rem 2rem;
   align-content: center;
   justify-content: center;
   align-items:center
