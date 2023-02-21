@@ -15,20 +15,27 @@ function App() {
         <h2>Top (+) Prompts:</h2>
 
         <div className="module">
+          <p>a wide angle shot of a (cyberpunk) city on a white background, photograph, dramatic, harsh lighting,  lighting on face, realistic skin, textured skin, fun, snarl, vivid colors, blade runner style, photorealistic, 35 mm, high quality, (Amos Cheung), Vitaly Bulgarov, David Noton, Takeshi Mizukoshi, 3d rendering -LMS, pruned 1.5, 80 samples</p>
+            <CopyToClipboard text="a wide angle shot of a (cyberpunk) city on a white background, photograph, dramatic, harsh lighting,  lighting on face, realistic skin, textured skin, fun, snarl, vivid colors, blade runner style, photorealistic, 35 mm, high quality, (Amos Cheung), Vitaly Bulgarov, David Noton, Takeshi Mizukoshi, 3d rendering -LMS, pruned 1.5, 80 samples">
+              <button>Copy</button>
+            </CopyToClipboard>
+          </div>
+
+          <div className="module">
           <p>splash art of a decayed sacrificial altar in overgrown jungle ruins, primitive, primal, mossy, dense jungle canopy overhead, sunlight filtered through leaves, small animals nearby, peaceful mood, dim lighting, action shot, heroic fantasy art, special effects, hd octane render</p>
             <CopyToClipboard text="splash art of a decayed sacrificial altar in overgrown jungle ruins, primitive, primal, mossy, dense jungle canopy overhead, sunlight filtered through leaves, small animals nearby, peaceful mood, dim lighting, action shot, heroic fantasy art, special effects, hd octane render">
               <button>Copy</button>
             </CopyToClipboard>
           </div>
 
-        <div className="module">
+          <div className="module">
           <p>Concept Art of futuristic soldiers marching across a field, megalithic buildings on fire in the background, dark ground in the foreground,scifi body armor on the soldiers, epic, volumetric lighting, buildings on fire, vehicles on fire, massive spaceships crashing to the ground, ominous, sunset, volumetric clouds, dramatic lighting, concept art, greg rutkowski, james gurney, johannes voss, , cold colors, adventure game, ready to attack</p>
             <CopyToClipboard text="Concept Art of futuristic soldiers marching across a field, megalithic buildings on fire in the background, dark ground in the foreground,scifi body armor on the soldiers, epic, volumetric lighting, buildings on fire, vehicles on fire, massive spaceships crashing to the ground, ominous, sunset, volumetric clouds, dramatic lighting, concept art, greg rutkowski, james gurney, johannes voss, , cold colors, adventure game, ready to attack">
               <button>Copy</button>
             </CopyToClipboard>
           </div>
 
-        <div className="module">
+          <div className="module">
           <p>Residential home high end futuristic interior, olson kundig::1 Interior Design by Dorothy Draper, maison de verre, axel vervoordt::2 award winning photography of an indoor-outdoor living library space, minimalist modern designs::1 high end indoor/outdoor residential living space, rendered in vray, rendered in octane, rendered in unreal engine, architectural photography, photorealism, featured in dezeen, cristobal palma::2.5 chaparral landscape outside, black surfaces/textures for furnishings in outdoor space::1 –q 2 –ar 4:7</p>
             <CopyToClipboard text="Residential home high end futuristic interior, olson kundig::1 Interior Design by Dorothy Draper, maison de verre, axel vervoordt::2 award winning photography of an indoor-outdoor living library space, minimalist modern designs::1 high end indoor/outdoor residential living space, rendered in vray, rendered in octane, rendered in unreal engine, architectural photography, photorealism, featured in dezeen, cristobal palma::2.5 chaparral landscape outside, black surfaces/textures for furnishings in outdoor space::1 –q 2 –ar 4:7">
               <button>Copy</button>
@@ -41,7 +48,6 @@ function App() {
               <button>Copy</button>
             </CopyToClipboard>
           </div>
-
 
           <div className="module">
           <p>azure, bright, (dragon knight), medieval, warrior, daemon, sapphire, electric, mist, destruction, portrait, hyperrealism, photorealism, steam, particles, heroic, stoic, profile, intense, creature entity</p>
