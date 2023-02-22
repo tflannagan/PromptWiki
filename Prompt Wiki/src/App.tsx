@@ -14,6 +14,21 @@ function App() {
         <blockquote>
         <h2>Top (+) Prompts:</h2>
 
+        
+        <div className="module">
+          <p>(((Realism))), ((Realistic)), Depth of Field, Ornate, Ominous, Intricate Details, Intricate, Cinematic, 4K, 8K, NSFW, Explicit, Explicit Content, Cinematic Light, Backlighting, Volumetric Lighting, Ambient Occlusion, Chromatic Aberration, Ray Tracing, Highly Detailed, Anamorphic Lens Flare, Lens Flare, Post Process, Post Processing, Bokeh, Cinematic DOF, Depth of Field, (Indoors:1.10), Renaissance, Renaissance Architecture, Hyper Detailed Architecture, Mansion, Reflective Floor, Noble Furniture, Noblesse, Windows, Windowsill, Baroque, Hallway, (Mountains, Clounds and Medieval Village Near River Visible Through Windows), Vintage, Vintage Windows</p>
+            <CopyToClipboard text="(((Realism))), ((Realistic)), Depth of Field, Ornate, Ominous, Intricate Details, Intricate, Cinematic, 4K, 8K, NSFW, Explicit, Explicit Content, Cinematic Light, Backlighting, Volumetric Lighting, Ambient Occlusion, Chromatic Aberration, Ray Tracing, Highly Detailed, Anamorphic Lens Flare, Lens Flare, Post Process, Post Processing, Bokeh, Cinematic DOF, Depth of Field, (Indoors:1.10), Renaissance, Renaissance Architecture, Hyper Detailed Architecture, Mansion, Reflective Floor, Noble Furniture, Noblesse, Windows, Windowsill, Baroque, Hallway, (Mountains, Clounds and Medieval Village Near River Visible Through Windows), Vintage, Vintage Windows">
+              <button>Copy</button>
+            </CopyToClipboard>
+          </div>
+
+        <div className="module">
+          <p>cyberpunk, starship from no man's sky, by ismail inceoglu, concept art of a large space vessel by greg rutkowski, octane, Inside an alien spaceship, concept art by Jason Chan, A 5 stage futuristic Big House, highly detailed, highly coherent 32k unreal engine 5, octane render, spaceship, unreal engine, ultra detailed, photo - realistic, symmetric, octane render</p>
+            <CopyToClipboard text="cyberpunk, starship from no man's sky, by ismail inceoglu, concept art of a large space vessel by greg rutkowski, octane, Inside an alien spaceship, concept art by Jason Chan, A 5 stage futuristic Big House, highly detailed, highly coherent 32k unreal engine 5, octane render, spaceship, unreal engine, ultra detailed, photo - realistic, symmetric, octane render">
+              <button>Copy</button>
+            </CopyToClipboard>
+          </div>
+
         <div className="module">
           <p>a wide angle shot of a (cyberpunk) city on a white background, photograph, dramatic, harsh lighting,  lighting on face, realistic skin, textured skin, fun, snarl, vivid colors, blade runner style, photorealistic, 35 mm, high quality, (Amos Cheung), Vitaly Bulgarov, David Noton, Takeshi Mizukoshi, 3d rendering -LMS, pruned 1.5, 80 samples</p>
             <CopyToClipboard text="a wide angle shot of a (cyberpunk) city on a white background, photograph, dramatic, harsh lighting,  lighting on face, realistic skin, textured skin, fun, snarl, vivid colors, blade runner style, photorealistic, 35 mm, high quality, (Amos Cheung), Vitaly Bulgarov, David Noton, Takeshi Mizukoshi, 3d rendering -LMS, pruned 1.5, 80 samples">
@@ -98,6 +113,13 @@ function App() {
           </CopyToClipboard>
           </div>
 
+          <div className="module">
+          <p>a breathtaking (photoreal image of an beautiful green planet), sky blue transparent atmosphere + cinematic shot + dynamic composition, incredibly detailed, sharpen, details + RAW color + star light + volumetric clouds + accurately detailed terrain + glowing edge of planet + award winning realism + The composition is balanced and dynamic, warm color star in the background, mass effect andromeda</p>
+          <CopyToClipboard text="a breathtaking (photoreal image of an beautiful green planet), sky blue transparent atmosphere + cinematic shot + dynamic composition, incredibly detailed, sharpen, details + RAW color + star light + volumetric clouds + accurately detailed terrain + glowing edge of planet + award winning realism + The composition is balanced and dynamic, warm color star in the background, mass effect andromeda">
+          <button>Copy</button>
+          </CopyToClipboard>
+          </div>
+
         </blockquote>
         
         <blockquote>
@@ -129,6 +151,21 @@ function App() {
           <button>COPY</button>
           </CopyToClipboard>
         </div>
+
+        <div className="module">
+          <p className="neg">(NG_DeepNegative_V1_75T), (bad-artist-anime), (Monochrome:1.0), (bad-hands-5), (bad-artist), Simple Background, Multiple Shots, Meadow, Field, Japanese House, Japan, Japanese, Japanese Architecture, Traditional Japanese House, Traditional (((Japanese Clothes))), Blush,Artist Name, Watermark, Text,Worst Quality, Low Quality, Blurry,Smoke, Blowing Smoke, Breath, Heavy Breathing, Steam, Steaming Body, Steam Censor</p>
+          <CopyToClipboard text="(NG_DeepNegative_V1_75T), (bad-artist-anime), (Monochrome:1.0), (bad-hands-5), (bad-artist), Simple Background, Multiple Shots, Meadow, Field, Japanese House, Japan, Japanese, Japanese Architecture, Traditional Japanese House, Traditional (((Japanese Clothes))), Blush,Artist Name, Watermark, Text,Worst Quality, Low Quality, Blurry,Smoke, Blowing Smoke, Breath, Heavy Breathing, Steam, Steaming Body, Steam Censor">
+          <button>COPY</button>
+          </CopyToClipboard>
+        </div>
+
+        <div className="module">
+          <p className="neg">floating ships, floating objects, blurry, out of focus, out of frame, lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, artist name, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, jpeg artifacts, signature, watermark</p>
+          <CopyToClipboard text="floating ships, floating objects, blurry, out of focus, out of frame, lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, artist name, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, jpeg artifacts, signature, watermark">
+          <button>COPY</button>
+          </CopyToClipboard>
+        </div>
+
 
       
 
