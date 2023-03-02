@@ -14,7 +14,13 @@ function App() {
         <blockquote>
         <h2>Top (+) Prompts:</h2>
 
-        
+        <div className="module">
+          <p>((Celtic Symbols)), Celts, sacred geometry, primitive, primal, sunlight filtered through, animals nearby, peaceful mood, dim lighting, special effects, HD octane render</p>
+            <CopyToClipboard text="((Celtic Symbols)), Celts, sacred geometry, primitive, primal, sunlight filtered through, animals nearby, peaceful mood, dim lighting, special effects, HD octane render">
+              <button>Copy</button>
+            </CopyToClipboard>
+          </div>
+
         <div className="module">
           <p>(((Realism))), ((Realistic)), Depth of Field, Ornate, Ominous, Intricate Details, Intricate, Cinematic, 4K, 8K, NSFW, Explicit, Explicit Content, Cinematic Light, Backlighting, Volumetric Lighting, Ambient Occlusion, Chromatic Aberration, Ray Tracing, Highly Detailed, Anamorphic Lens Flare, Lens Flare, Post Process, Post Processing, Bokeh, Cinematic DOF, Depth of Field, (Indoors:1.10), Renaissance, Renaissance Architecture, Hyper Detailed Architecture, Mansion, Reflective Floor, Noble Furniture, Noblesse, Windows, Windowsill, Baroque, Hallway, (Mountains, Clounds and Medieval Village Near River Visible Through Windows), Vintage, Vintage Windows</p>
             <CopyToClipboard text="(((Realism))), ((Realistic)), Depth of Field, Ornate, Ominous, Intricate Details, Intricate, Cinematic, 4K, 8K, NSFW, Explicit, Explicit Content, Cinematic Light, Backlighting, Volumetric Lighting, Ambient Occlusion, Chromatic Aberration, Ray Tracing, Highly Detailed, Anamorphic Lens Flare, Lens Flare, Post Process, Post Processing, Bokeh, Cinematic DOF, Depth of Field, (Indoors:1.10), Renaissance, Renaissance Architecture, Hyper Detailed Architecture, Mansion, Reflective Floor, Noble Furniture, Noblesse, Windows, Windowsill, Baroque, Hallway, (Mountains, Clounds and Medieval Village Near River Visible Through Windows), Vintage, Vintage Windows">
