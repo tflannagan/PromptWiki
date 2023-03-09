@@ -15,6 +15,13 @@ function App() {
         <h2>Top (+) Prompts:</h2>
 
         <div className="module">
+          <p>(Secret object in center view), ((Audio Frequency)), (Acoustics ) Ancient, sacred geometry, pi, Fibonacci sequence, reflective surfaces, primitive, primal, sunlight filtered through, animals nearby, peaceful mood, dim lighting, special effects, HD octane render, Artist logo, dark symbol, dark, detailed, Nordic symbols, (T), avatar, profile picture, design art, (cover art), intense, mist, volumetric clouds, volumetric lighting, heroism</p>
+            <CopyToClipboard text="(Secret object in center view), ((Audio Frequency)), (Acoustics ) Ancient, sacred geometry, pi, Fibonacci sequence, reflective surfaces, primitive, primal, sunlight filtered through, animals nearby, peaceful mood, dim lighting, special effects, HD octane render, Artist logo, dark symbol, dark, detailed, Nordic symbols, (T), avatar, profile picture, design art, (cover art), intense, mist, volumetric clouds, volumetric lighting, heroism">
+              <button>Copy</button>
+            </CopyToClipboard>
+          </div>
+
+        <div className="module">
           <p>((Celtic Symbols)), Celts, sacred geometry, primitive, primal, sunlight filtered through, animals nearby, peaceful mood, dim lighting, special effects, HD octane render</p>
             <CopyToClipboard text="((Celtic Symbols)), Celts, sacred geometry, primitive, primal, sunlight filtered through, animals nearby, peaceful mood, dim lighting, special effects, HD octane render">
               <button>Copy</button>
@@ -130,12 +137,7 @@ function App() {
         
         <blockquote>
         <h2>Top (-) Prompts:</h2>
-        <div className="module">
-          <p className="neg">blurry, out of focus, out of frame, low-res, bad anatomy, ugly, grain, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, artist name, futanari, girl with penis, blood, urine, fat, obese, multiple girls, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, jpeg artifacts, signature, watermark, extra fingers, mutated hands, (multiple penises), (disembodied), (poorly drawn hands), (poorly drawn face), (mutation)</p>
-          <CopyToClipboard text="blurry, out of focus, out of frame, low-res, bad anatomy, ugly, grain, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, artist name, futanari, girl with penis, blood, urine, fat, obese, multiple girls, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, jpeg artifacts, signature, watermark, extra fingers, mutated hands, (multiple penises), (disembodied), (poorly drawn hands), (poorly drawn face), (mutation)">
-          <button>COPY</button>
-          </CopyToClipboard>
-        </div>
+    
 
         <div className="module">
           <p className="neg">blurry, out of focus, out of frame, lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, artist name, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, jpeg artifacts, signature, watermark, extra fingers, mutated hands,(disembodied), (poorly drawn hands), (poorly drawn face), (mutation)</p>
