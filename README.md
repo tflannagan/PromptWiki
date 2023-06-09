@@ -23,6 +23,7 @@ This project is built with:
 - HTML5
 - CSS3
 - JavaScript
+- ReactJS
 
 ## :mailbox: Contact
 Ty Flannagan - LinkedIn
